@@ -1,0 +1,10 @@
+name: "StellarRealms Documentation"
+description: ""
+
+url: "http://docs.stellarrealms.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
