@@ -6,3 +6,4 @@ layout: default
 ######There are several sections to the documentation:
 * Help Files
 * Player Guides
+* Scoring Guide
