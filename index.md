@@ -9,3 +9,4 @@ layout: default
 * Game Guide
 * Player Guides
 * Scoring Guide
+* Helping Out
